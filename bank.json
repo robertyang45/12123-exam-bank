@@ -2,7 +2,7 @@
   "meta": {
     "total": 55,
     "last_exam": "2026-08-24",
-    "accuracy": 0.96
+    "accuracy": 0.95
   },
   "questions": [
     {
@@ -529,13 +529,13 @@
       "id": "Q041",
       "type": "single",
       "category": "违法停车",
-      "question": "图中机动车停放位置主要违反了什么规定？",
-      "options": ["A 占用人行道，影响行人通行", "B 未拉手刹", "C 未熄火", "D 未开双闪"],
-      "answer": "A",
-      "explanation": "车辆停放在人行道上，占用行人通行空间，属违法停车。",
-      "keywords": ["人行道", "违法停车", "占用"],
+      "question": "如图所示，这辆机动车的违法行为是什么？",
+      "options": ["A 停车占用人行道", "B 在公共汽车站停车", "C 在非机动车道停车", "D 在有禁停标志路段停车"],
+      "answer": "B",
+      "explanation": "图中车辆停在公共汽车站内，属于占用公共汽车站停车，标准答案为 B。",
+      "keywords": ["公共汽车站", "违法停车", "占用公交站点"],
       "verified": true,
-      "wrong_count": 0,
+      "wrong_count": 1,
       "source_date": "2026-08-24"
     },
     {
